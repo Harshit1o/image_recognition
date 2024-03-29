@@ -1,7 +1,8 @@
 # image_recognition
 
 ## Overview
-This project is aimed at performing image recognition using a convolutional neural network (CNN) implemented with Keras. The model is trained on the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. After training, the model can predict the class of custom images provided by the user.
+This project is aimed at performing image recognition using a convolutional neural network (CNN) implemented with Keras. The model is trained on the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. After training, the model can predict the class of custom images provided by the user.<br>
+Please ignore the first 13 cells its just to make you femilier with image_processing and make you con=mfertable to work with machine learning libraries.
 
 ## Installation
 1. Clone this repository to your local machine:
